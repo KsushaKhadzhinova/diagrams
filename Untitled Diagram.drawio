@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-05-29T12:02:38.318Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="kL5BIDgh0UlvxA4fuObT" version="24.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-29T12:49:15.517Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="iIyJOcQmVSjdfROuKOKt" version="24.4.6" type="github">
   <diagram name="Page-1" id="rmfBycRej--NWVKZr8Mj">
-    <mxGraphModel dx="2049" dy="2235" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="1915" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Imghk9kS2c84kVNyNOA3-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="-240" width="710" height="1060" as="geometry" />
+          <mxGeometry x="340" y="-240" width="560" height="1050" as="geometry" />
         </mxCell>
         <mxCell id="Imghk9kS2c84kVNyNOA3-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Imghk9kS2c84kVNyNOA3-2" target="Imghk9kS2c84kVNyNOA3-6">
           <mxGeometry relative="1" as="geometry" />
@@ -117,6 +117,78 @@
             <mxPoint x="600" y="840" as="sourcePoint" />
             <mxPoint x="650" y="790" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Imghk9kS2c84kVNyNOA3-47" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1230" width="1460" height="700" as="geometry" />
+        </mxCell>
+        <mxCell id="Imghk9kS2c84kVNyNOA3-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Imghk9kS2c84kVNyNOA3-49" target="Imghk9kS2c84kVNyNOA3-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Imghk9kS2c84kVNyNOA3-49" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1480" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Imghk9kS2c84kVNyNOA3-50" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="1450" width="310" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="Imghk9kS2c84kVNyNOA3-51" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="1360" width="670" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="Imghk9kS2c84kVNyNOA3-52" value="Настройка кассового модуля" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1470" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Imghk9kS2c84kVNyNOA3-54" value="Административный модуль" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="1420" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Imghk9kS2c84kVNyNOA3-55" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1580" width="30" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Imghk9kS2c84kVNyNOA3-56" value="Пользователь:&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Добавляет/Удаляет/Перемещает&lt;/div&gt;&lt;div&gt;Группы/Товары/Абонименты&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1605" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Imghk9kS2c84kVNyNOA3-57" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Imghk9kS2c84kVNyNOA3-56" target="Imghk9kS2c84kVNyNOA3-52">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="1640" as="sourcePoint" />
+            <mxPoint x="520" y="1590" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="485" y="1620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Imghk9kS2c84kVNyNOA3-58" value="Флажок Видимый нажат" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="1470" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Imghk9kS2c84kVNyNOA3-59" value="Товар/Абонемент/Группа&lt;div&gt;&lt;b&gt;не отображается&lt;/b&gt;&amp;nbsp;в кассовом модуле&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1370" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Imghk9kS2c84kVNyNOA3-60" value="Товар/Абонемент/Группа&lt;div&gt;&lt;b&gt;отображается&lt;/b&gt; в кассовом модуле&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="1480" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Imghk9kS2c84kVNyNOA3-61" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="1605" width="25" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Imghk9kS2c84kVNyNOA3-62" value="Для Товара/Абонемента/Группы" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="880" y="1610" width="195" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Imghk9kS2c84kVNyNOA3-63" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Imghk9kS2c84kVNyNOA3-58" target="Imghk9kS2c84kVNyNOA3-62">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1070" y="1510" as="sourcePoint" />
+            <mxPoint x="1120" y="1460" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="865" y="1625" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Imghk9kS2c84kVNyNOA3-64" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="1075" y="1372.5" width="25" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="Imghk9kS2c84kVNyNOA3-65" value="Пользователь может настраивать в Административном модуле то, как будет выглядеть Кассовый модуль пока не настроит&lt;div&gt;Пока не нажал Видимый изменения не видны в Кассовом модуле&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1075" y="1390" width="395" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Imghk9kS2c84kVNyNOA3-66" value="Изменения не отображаются, если:" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="1580" width="240" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Imghk9kS2c84kVNyNOA3-68" value="Родительская Группа не Видима (не нажат флажок Видимый)&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Группа не отобразится, если в ней нет Товаров и Абонементов (пустая)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="1630" width="240" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
