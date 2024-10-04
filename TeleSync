@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" modified="2024-10-04T09:31:21.460Z" version="24.6.4" etag="6Zbbaw6FUl_b4n7nuEmq" type="github">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="G1jB1xcBf6jevPv8Hlq1">
-    <mxGraphModel dx="1859" dy="459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2056" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -508,11 +508,8 @@
         <mxCell id="mQ8oiLqYxYuhxOBUOUFV-264" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1160" y="960" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="mQ8oiLqYxYuhxOBUOUFV-266" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Аудио&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="mQ8oiLqYxYuhxOBUOUFV-266" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Звонок&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1350" y="910" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="mQ8oiLqYxYuhxOBUOUFV-267" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Видео&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1300" y="910" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mQ8oiLqYxYuhxOBUOUFV-268" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1510" y="860" width="420" height="240" as="geometry" />
@@ -529,35 +526,59 @@
         <mxCell id="mQ8oiLqYxYuhxOBUOUFV-272" value="Календарь" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1470" y="1040" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="h1jX3A7XaW3H2Qg_A1DG-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1585" y="920" width="295" height="150" as="geometry" />
+        <mxCell id="h1jX3A7XaW3H2Qg_A1DG-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1585" y="920" width="295" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="h1jX3A7XaW3H2Qg_A1DG-2" value="Пригласить участников" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="h1jX3A7XaW3H2Qg_A1DG-2" value="Пригласить участников" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1600" y="1025" width="80" height="41.25" as="geometry" />
         </mxCell>
-        <mxCell id="h1jX3A7XaW3H2Qg_A1DG-5" value="Аудиозвонок" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1692.5" y="1025" width="80" height="41.25" as="geometry" />
+        <mxCell id="h1jX3A7XaW3H2Qg_A1DG-5" value="Аудио" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1692.5" y="1025" width="47.5" height="41.25" as="geometry" />
         </mxCell>
-        <mxCell id="h1jX3A7XaW3H2Qg_A1DG-6" value="Видеозвонок" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1790" y="1025" width="80" height="41.25" as="geometry" />
+        <mxCell id="h1jX3A7XaW3H2Qg_A1DG-6" value="Видео" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1750" y="1025" width="50" height="41.25" as="geometry" />
         </mxCell>
-        <mxCell id="h1jX3A7XaW3H2Qg_A1DG-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="1160" width="420" height="240" as="geometry" />
+        <mxCell id="kKS9ZwThV8Zxo---K1gO-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="1150" width="420" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="h1jX3A7XaW3H2Qg_A1DG-8" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;Личный кабинет сотрудника&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="1180" width="270" height="30" as="geometry" />
+        <mxCell id="kKS9ZwThV8Zxo---K1gO-18" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;Личный кабинет сотрудника&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="1170" width="270" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="h1jX3A7XaW3H2Qg_A1DG-9" value="Видео-звонки" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="960" y="1240" width="80" height="30" as="geometry" />
+        <mxCell id="kKS9ZwThV8Zxo---K1gO-19" value="Видео-звонки" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="1230" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="h1jX3A7XaW3H2Qg_A1DG-10" value="Мессенджер" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="1290" width="80" height="30" as="geometry" />
+        <mxCell id="kKS9ZwThV8Zxo---K1gO-20" value="Мессенджер" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="960" y="1280" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="h1jX3A7XaW3H2Qg_A1DG-11" value="Календарь" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="1340" width="80" height="30" as="geometry" />
+        <mxCell id="kKS9ZwThV8Zxo---K1gO-21" value="Календарь" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="1330" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="h1jX3A7XaW3H2Qg_A1DG-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1075" y="1220" width="295" height="150" as="geometry" />
+        <mxCell id="kKS9ZwThV8Zxo---K1gO-22" value="Избранное" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1041" y="1210" width="99" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="kKS9ZwThV8Zxo---K1gO-23" value="Личные чаты" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="1247.5" width="100" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="kKS9ZwThV8Zxo---K1gO-24" value="Групповые чаты" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="1285" width="100" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="kKS9ZwThV8Zxo---K1gO-25" value="Каналы" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1041" y="1322.5" width="99" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="kKS9ZwThV8Zxo---K1gO-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="1210" width="260" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="kKS9ZwThV8Zxo---K1gO-40" value="Открытые" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="1210" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kKS9ZwThV8Zxo---K1gO-41" value="Закрытые" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="1210" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kKS9ZwThV8Zxo---K1gO-44" value="Шеринг экрана" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1810" y="1025" width="50" height="41.25" as="geometry" />
+        </mxCell>
+        <mxCell id="kKS9ZwThV8Zxo---K1gO-45" value="- Создание видеовстреч с мгновенным запуском и запланированные на определенное время&lt;div&gt;- Возможность принимать звонки войдя в ЛК, но не запуская приложение&lt;/div&gt;&lt;div&gt;- Функция поднятия руки&lt;/div&gt;&lt;div&gt;- Отклики&lt;/div&gt;&lt;div&gt;- Чат&lt;/div&gt;&lt;div&gt;- Ссылка на чат&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1890" y="925" width="280" height="185" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
