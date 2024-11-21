@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.6">
   <diagram name="Page-1" id="G1jB1xcBf6jevPv8Hlq1">
-    <mxGraphModel dx="4875" dy="2426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4132" dy="2036" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1739,16 +1739,16 @@
           <mxGeometry x="-61.57" y="2350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FCOGLcqpernQ_31qMMHK-483" value="Отдел" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-280" y="2510" width="120" height="60" as="geometry" />
+          <mxGeometry x="-302.5" y="2510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FCOGLcqpernQ_31qMMHK-484" value="Отдел" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="2510" width="120" height="60" as="geometry" />
+          <mxGeometry x="252.5" y="2510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FCOGLcqpernQ_31qMMHK-485" value="Руководитель" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="-237.5" y="2430" width="30" height="60" as="geometry" />
+          <mxGeometry x="-260" y="2430" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FCOGLcqpernQ_31qMMHK-486" value="Руководитель" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="215" y="2430" width="30" height="60" as="geometry" />
+          <mxGeometry x="297.5" y="2430" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FCOGLcqpernQ_31qMMHK-487" value="Руководитель" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="-15" y="2270" width="30" height="60" as="geometry" />
@@ -1762,38 +1762,92 @@
         <mxCell id="FCOGLcqpernQ_31qMMHK-489" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-200" y="2460" as="sourcePoint" />
-            <mxPoint x="210" y="2460" as="targetPoint" />
+            <mxPoint x="280" y="2460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FCOGLcqpernQ_31qMMHK-490" value="Отдел" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="25" y="2680" width="120" height="60" as="geometry" />
+          <mxGeometry x="27.5" y="2760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FCOGLcqpernQ_31qMMHK-491" value="Руководитель" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="70" y="2600" width="30" height="60" as="geometry" />
+          <mxGeometry x="72.5" y="2680" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FCOGLcqpernQ_31qMMHK-492" value="Отдел" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="175" y="2680" width="120" height="60" as="geometry" />
+          <mxGeometry x="177.5" y="2760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FCOGLcqpernQ_31qMMHK-493" value="Руководитель" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="220" y="2600" width="30" height="60" as="geometry" />
+          <mxGeometry x="222.5" y="2680" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FCOGLcqpernQ_31qMMHK-494" value="Отдел" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="325" y="2680" width="120" height="60" as="geometry" />
+          <mxGeometry x="327.5" y="2760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FCOGLcqpernQ_31qMMHK-495" value="Руководитель" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="370" y="2600" width="30" height="60" as="geometry" />
+          <mxGeometry x="372.5" y="2680" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FCOGLcqpernQ_31qMMHK-496" value="Отдел" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-210" y="2680" width="120" height="60" as="geometry" />
+          <mxGeometry x="-230" y="2760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FCOGLcqpernQ_31qMMHK-497" value="Руководитель" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="-165" y="2600" width="30" height="60" as="geometry" />
+          <mxGeometry x="-185" y="2680" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FCOGLcqpernQ_31qMMHK-498" value="Отдел" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-360" y="2680" width="120" height="60" as="geometry" />
+          <mxGeometry x="-380" y="2760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FCOGLcqpernQ_31qMMHK-499" value="Руководитель" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="-315" y="2600" width="30" height="60" as="geometry" />
+          <mxGeometry x="-335" y="2680" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FCOGLcqpernQ_31qMMHK-501" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-242.28999999999996" y="2720" as="sourcePoint" />
+            <mxPoint x="-242.78999999999996" y="2570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FCOGLcqpernQ_31qMMHK-503" value="Отдел" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="2760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FCOGLcqpernQ_31qMMHK-504" value="Руководитель" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="525" y="2680" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FCOGLcqpernQ_31qMMHK-505" value="" style="endArrow=none;html=1;rounded=0;entryX=0.552;entryY=1.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="FCOGLcqpernQ_31qMMHK-484">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="2650" as="sourcePoint" />
+            <mxPoint x="320" y="2576" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FCOGLcqpernQ_31qMMHK-506" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="2650" as="sourcePoint" />
+            <mxPoint x="550" y="2650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FCOGLcqpernQ_31qMMHK-507" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-300" y="2720" as="sourcePoint" />
+            <mxPoint x="-190" y="2720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FCOGLcqpernQ_31qMMHK-509" value="" style="endArrow=none;html=1;rounded=0;entryX=0.552;entryY=1.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="387" y="2670" as="sourcePoint" />
+            <mxPoint x="387" y="2650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FCOGLcqpernQ_31qMMHK-510" value="" style="endArrow=none;html=1;rounded=0;entryX=0.552;entryY=1.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="539.83" y="2670" as="sourcePoint" />
+            <mxPoint x="539.83" y="2650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FCOGLcqpernQ_31qMMHK-511" value="" style="endArrow=none;html=1;rounded=0;entryX=0.552;entryY=1.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="239.66" y="2670" as="sourcePoint" />
+            <mxPoint x="239.66" y="2650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FCOGLcqpernQ_31qMMHK-513" value="" style="endArrow=none;html=1;rounded=0;entryX=0.552;entryY=1.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="87.32999999999998" y="2670" as="sourcePoint" />
+            <mxPoint x="87.32999999999998" y="2650" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
