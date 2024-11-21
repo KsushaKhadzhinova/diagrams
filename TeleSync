@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.6">
   <diagram name="Page-1" id="G1jB1xcBf6jevPv8Hlq1">
-    <mxGraphModel dx="4761" dy="2366" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4563" dy="2262" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1657,197 +1657,14 @@
         <mxCell id="FCOGLcqpernQ_31qMMHK-455" value="Назначение руководителей" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-130" y="1800" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FCOGLcqpernQ_31qMMHK-456" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-150" y="1950" width="420" height="240" as="geometry" />
-        </mxCell>
-        <mxCell id="FCOGLcqpernQ_31qMMHK-457" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;HR&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-130" y="1970" width="270" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FCOGLcqpernQ_31qMMHK-458" value="Дерево компании" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="7.5" y="1955" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="FCOGLcqpernQ_31qMMHK-459" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="1960" width="420" height="240" as="geometry" />
+          <mxGeometry x="342.5" y="2360" width="420" height="280" as="geometry" />
         </mxCell>
         <mxCell id="FCOGLcqpernQ_31qMMHK-460" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;HR&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="1980" width="270" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FCOGLcqpernQ_31qMMHK-461" value="&lt;b&gt;Сотрудники&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="370" y="2040" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FCOGLcqpernQ_31qMMHK-462" value="&lt;b&gt;Отдел&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="2040" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FCOGLcqpernQ_31qMMHK-463" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;ФИО&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="2100" width="47.5" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FCOGLcqpernQ_31qMMHK-464" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Должность&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="447.5" y="2100" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FCOGLcqpernQ_31qMMHK-465" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Название отдела&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="2100" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FCOGLcqpernQ_31qMMHK-466" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="370" y="2105" width="20" height="20" as="geometry" />
+          <mxGeometry x="362.5" y="2380" width="270" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FCOGLcqpernQ_31qMMHK-467" value="Назначение руководителей" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="470" y="1980" width="180" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FCOGLcqpernQ_31qMMHK-468" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="375" y="2110" width="10" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="FCOGLcqpernQ_31qMMHK-469" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;ФИО&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="2130" width="47.5" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FCOGLcqpernQ_31qMMHK-470" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Должность&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="447.5" y="2130" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FCOGLcqpernQ_31qMMHK-471" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="370" y="2135" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="FCOGLcqpernQ_31qMMHK-472" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="375" y="2140" width="10" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="FCOGLcqpernQ_31qMMHK-473" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;ФИО&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="2160" width="47.5" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FCOGLcqpernQ_31qMMHK-474" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Должность&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="447.5" y="2160" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FCOGLcqpernQ_31qMMHK-475" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="370" y="2165" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="FCOGLcqpernQ_31qMMHK-476" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="375" y="2170" width="10" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="FCOGLcqpernQ_31qMMHK-477" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Название отдела&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="2130" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FCOGLcqpernQ_31qMMHK-478" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Название отдела&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="2160" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FCOGLcqpernQ_31qMMHK-479" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="645" y="2107.5" width="15" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="FCOGLcqpernQ_31qMMHK-480" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="645" y="2140" width="15" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="FCOGLcqpernQ_31qMMHK-481" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="645" y="2167.5" width="15" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="FCOGLcqpernQ_31qMMHK-482" value="Отдел" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-61.57" y="2350" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FCOGLcqpernQ_31qMMHK-483" value="Отдел" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-302.5" y="2510" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FCOGLcqpernQ_31qMMHK-484" value="Отдел" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="252.5" y="2510" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FCOGLcqpernQ_31qMMHK-485" value="Руководитель" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="-260" y="2430" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FCOGLcqpernQ_31qMMHK-486" value="Руководитель" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="297.5" y="2430" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FCOGLcqpernQ_31qMMHK-487" value="Руководитель" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="-15" y="2270" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FCOGLcqpernQ_31qMMHK-488" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint y="2460" as="sourcePoint" />
-            <mxPoint y="2410" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FCOGLcqpernQ_31qMMHK-489" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-200" y="2460" as="sourcePoint" />
-            <mxPoint x="280" y="2460" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FCOGLcqpernQ_31qMMHK-490" value="Отдел" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="27.5" y="2760" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FCOGLcqpernQ_31qMMHK-491" value="Руководитель" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="72.5" y="2680" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FCOGLcqpernQ_31qMMHK-492" value="Отдел" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="177.5" y="2760" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FCOGLcqpernQ_31qMMHK-493" value="Руководитель" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="222.5" y="2680" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FCOGLcqpernQ_31qMMHK-494" value="Отдел" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="327.5" y="2760" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FCOGLcqpernQ_31qMMHK-495" value="Руководитель" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="372.5" y="2680" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FCOGLcqpernQ_31qMMHK-496" value="Отдел" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-230" y="2760" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FCOGLcqpernQ_31qMMHK-497" value="Руководитель" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="-185" y="2680" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FCOGLcqpernQ_31qMMHK-498" value="Отдел" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-380" y="2760" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FCOGLcqpernQ_31qMMHK-499" value="Руководитель" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="-335" y="2680" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FCOGLcqpernQ_31qMMHK-501" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-242.28999999999996" y="2720" as="sourcePoint" />
-            <mxPoint x="-242.78999999999996" y="2570" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FCOGLcqpernQ_31qMMHK-503" value="Отдел" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="2760" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FCOGLcqpernQ_31qMMHK-504" value="Руководитель" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="525" y="2680" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FCOGLcqpernQ_31qMMHK-505" value="" style="endArrow=none;html=1;rounded=0;entryX=0.552;entryY=1.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="FCOGLcqpernQ_31qMMHK-484">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="320" y="2650" as="sourcePoint" />
-            <mxPoint x="320" y="2576" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FCOGLcqpernQ_31qMMHK-506" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="70" y="2650" as="sourcePoint" />
-            <mxPoint x="550" y="2650" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FCOGLcqpernQ_31qMMHK-507" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-300" y="2720" as="sourcePoint" />
-            <mxPoint x="-190" y="2720" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FCOGLcqpernQ_31qMMHK-509" value="" style="endArrow=none;html=1;rounded=0;entryX=0.552;entryY=1.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="387" y="2670" as="sourcePoint" />
-            <mxPoint x="387" y="2650" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FCOGLcqpernQ_31qMMHK-510" value="" style="endArrow=none;html=1;rounded=0;entryX=0.552;entryY=1.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="539.83" y="2670" as="sourcePoint" />
-            <mxPoint x="539.83" y="2650" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FCOGLcqpernQ_31qMMHK-511" value="" style="endArrow=none;html=1;rounded=0;entryX=0.552;entryY=1.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="239.66" y="2670" as="sourcePoint" />
-            <mxPoint x="239.66" y="2650" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FCOGLcqpernQ_31qMMHK-513" value="" style="endArrow=none;html=1;rounded=0;entryX=0.552;entryY=1.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="87.32999999999998" y="2670" as="sourcePoint" />
-            <mxPoint x="87.32999999999998" y="2650" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="452.5" y="2380" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FCOGLcqpernQ_31qMMHK-542" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-501.25" y="2910" width="1320" height="1040" as="geometry" />
@@ -2244,6 +2061,84 @@
         </mxCell>
         <mxCell id="FCOGLcqpernQ_31qMMHK-654" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;Дерево компании&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-62.56999999999999" y="2990" width="490" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FCOGLcqpernQ_31qMMHK-655" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://tlgrm.ru/_/static/file/bf2/fa8/bf2fa85a378b73b2012c63f86a4f1019.png;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="1860" width="623" height="388.43" as="geometry" />
+        </mxCell>
+        <mxCell id="FCOGLcqpernQ_31qMMHK-661" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="2420" width="396" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="FCOGLcqpernQ_31qMMHK-662" value="&lt;b&gt;Сотрудники&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="362.5" y="2430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FCOGLcqpernQ_31qMMHK-663" value="&lt;b&gt;Отдел&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="2440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FCOGLcqpernQ_31qMMHK-664" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;ФИО&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="392.5" y="2490" width="47.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FCOGLcqpernQ_31qMMHK-665" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Должность&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="2490" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FCOGLcqpernQ_31qMMHK-666" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Название отдела&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="2500" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FCOGLcqpernQ_31qMMHK-667" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="362.5" y="2495" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FCOGLcqpernQ_31qMMHK-668" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="367.5" y="2500" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="FCOGLcqpernQ_31qMMHK-669" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;ФИО&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="392.5" y="2520" width="47.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FCOGLcqpernQ_31qMMHK-670" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Должность&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="2520" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FCOGLcqpernQ_31qMMHK-671" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="362.5" y="2525" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FCOGLcqpernQ_31qMMHK-672" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="367.5" y="2530" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="FCOGLcqpernQ_31qMMHK-673" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;ФИО&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="392.5" y="2550" width="47.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FCOGLcqpernQ_31qMMHK-674" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Должность&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="2550" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FCOGLcqpernQ_31qMMHK-675" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="362.5" y="2555" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FCOGLcqpernQ_31qMMHK-676" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="367.5" y="2560" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="FCOGLcqpernQ_31qMMHK-677" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Название отдела&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="2530" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FCOGLcqpernQ_31qMMHK-678" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Название отдела&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="2560" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FCOGLcqpernQ_31qMMHK-679" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="605" y="2507.5" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="FCOGLcqpernQ_31qMMHK-680" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="605" y="2540" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="FCOGLcqpernQ_31qMMHK-681" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="605" y="2567.5" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="FCOGLcqpernQ_31qMMHK-682" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="685" y="2462.5" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="FCOGLcqpernQ_31qMMHK-683" value="" style="shape=cross;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="688.75" y="2467.5" width="7.5" height="5" as="geometry" />
+        </mxCell>
+        <mxCell id="FCOGLcqpernQ_31qMMHK-684" value="Сохранить" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="2600" width="75" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FCOGLcqpernQ_31qMMHK-685" value="Отмена" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="417.5" y="2600" width="75" height="27.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
