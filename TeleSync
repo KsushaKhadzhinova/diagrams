@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.1">
   <diagram name="Page-1" id="G1jB1xcBf6jevPv8Hlq1">
-    <mxGraphModel dx="4396" dy="2175" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3439" dy="1672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2772,12 +2772,6 @@
         </mxCell>
         <mxCell id="J_ImhmaGVDjaYC3Bx1d5-150" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1150" y="1210" width="260" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="J_ImhmaGVDjaYC3Bx1d5-151" value="Открытые" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="1210" width="160" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="J_ImhmaGVDjaYC3Bx1d5-152" value="Закрытые" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1310" y="1210" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="J_ImhmaGVDjaYC3Bx1d5-153" value="Шеринг экрана" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1810" y="1025" width="50" height="41.25" as="geometry" />
