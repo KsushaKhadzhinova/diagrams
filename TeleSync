@@ -4837,7 +4837,7 @@
         <mxCell id="kSplDnjAk2hStr8OhdZE-15" value="Назад" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2015" y="-360" width="85" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="kSplDnjAk2hStr8OhdZE-16" value="Вы точно хотите вернуться?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kSplDnjAk2hStr8OhdZE-16" value="Вы точно хотите вернуться в личный кабинет?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2051.88" y="-495" width="250" height="130" as="geometry" />
         </mxCell>
         <mxCell id="kSplDnjAk2hStr8OhdZE-17" value="Подтвердить" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
