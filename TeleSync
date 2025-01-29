@@ -4594,6 +4594,204 @@
         <mxCell id="m_Y29iRxK8P2dY197qvD-59" value="Отправить повторно" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1572" y="-750" width="190" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="m_Y29iRxK8P2dY197qvD-115" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-745" y="-540" width="420" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="m_Y29iRxK8P2dY197qvD-116" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-637.5" y="-515" width="205" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="m_Y29iRxK8P2dY197qvD-117" value="Код подтверждения" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-620" y="-480" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="m_Y29iRxK8P2dY197qvD-118" value="Восстановить пароль" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-605" y="-540" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m_Y29iRxK8P2dY197qvD-119" value="Подтвердить" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-630" y="-360" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="m_Y29iRxK8P2dY197qvD-120" value="Отправить повторно" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-630" y="-440" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="m_Y29iRxK8P2dY197qvD-121" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-745" y="-540" width="420" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="m_Y29iRxK8P2dY197qvD-122" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-637.5" y="-515" width="205" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="m_Y29iRxK8P2dY197qvD-123" value="Новый пароль" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-620" y="-480" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="m_Y29iRxK8P2dY197qvD-124" value="Смена пароля" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-605" y="-540" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m_Y29iRxK8P2dY197qvD-125" value="Повторить пароль" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-620" y="-440" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="m_Y29iRxK8P2dY197qvD-126" value="Показать пароль" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-592.5" y="-410" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="m_Y29iRxK8P2dY197qvD-127" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-620.6199999999999" y="-410" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="m_Y29iRxK8P2dY197qvD-128" value="Сохранить" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-525.62" y="-360" width="85" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="m_Y29iRxK8P2dY197qvD-129" value="Отмена" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-620.6199999999999" y="-360" width="85" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="m_Y29iRxK8P2dY197qvD-131" value="&lt;font style=&quot;font-size: 8px;&quot; color=&quot;#ff0000&quot;&gt;Новый пароль совпадает с ранее использованным&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-687.5" y="-515" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m_Y29iRxK8P2dY197qvD-132" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1690" y="-275" width="420" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="m_Y29iRxK8P2dY197qvD-133" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1582.5" y="-250" width="205" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="m_Y29iRxK8P2dY197qvD-134" value="Код подтверждения" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1565" y="-215" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="m_Y29iRxK8P2dY197qvD-135" value="Восстановить пароль" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1550" y="-275" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m_Y29iRxK8P2dY197qvD-136" value="Подтвердить" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1575" y="-95" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="m_Y29iRxK8P2dY197qvD-137" value="Отправить повторно" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1575" y="-175" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="m_Y29iRxK8P2dY197qvD-138" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1690" y="-275" width="420" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="m_Y29iRxK8P2dY197qvD-139" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1582.5" y="-250" width="205" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="m_Y29iRxK8P2dY197qvD-140" value="Старый пароль" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-1565" y="-215" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="m_Y29iRxK8P2dY197qvD-141" value="Смена пароля" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1550" y="-275" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m_Y29iRxK8P2dY197qvD-142" value="Далее" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1470" y="-95" width="85" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="m_Y29iRxK8P2dY197qvD-143" value="Показать пароль" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1536.88" y="-175" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="m_Y29iRxK8P2dY197qvD-144" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-1565" y="-175" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="m_Y29iRxK8P2dY197qvD-145" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Забыли пароль?&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1565" y="-135" width="85" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="m_Y29iRxK8P2dY197qvD-146" value="Назад" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1565" y="-95" width="85" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="m_Y29iRxK8P2dY197qvD-147" value="&lt;font color=&quot;#ff0000&quot;&gt;Пароль неверный&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1582.5" y="-245" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m_Y29iRxK8P2dY197qvD-149" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1220" y="-275" width="420" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="m_Y29iRxK8P2dY197qvD-150" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1112.5" y="-250" width="205" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="m_Y29iRxK8P2dY197qvD-151" value="Код подтверждения" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1095" y="-215" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="m_Y29iRxK8P2dY197qvD-152" value="Восстановить пароль" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1080" y="-275" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m_Y29iRxK8P2dY197qvD-153" value="Подтвердить" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1105" y="-95" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="m_Y29iRxK8P2dY197qvD-154" value="Отправить повторно" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1105" y="-175" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="m_Y29iRxK8P2dY197qvD-155" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1220" y="-275" width="420" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="m_Y29iRxK8P2dY197qvD-156" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1112.5" y="-250" width="205" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="m_Y29iRxK8P2dY197qvD-157" value="Новый пароль" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1095" y="-215" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="m_Y29iRxK8P2dY197qvD-158" value="Смена пароля" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1080" y="-275" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m_Y29iRxK8P2dY197qvD-159" value="Повторить пароль" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-1095" y="-175" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="m_Y29iRxK8P2dY197qvD-160" value="Показать пароль" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1067.5" y="-145" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="m_Y29iRxK8P2dY197qvD-161" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-1095.62" y="-145" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="m_Y29iRxK8P2dY197qvD-162" value="Сохранить" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1000.62" y="-95" width="85" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="m_Y29iRxK8P2dY197qvD-163" value="Отмена" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1095.62" y="-95" width="85" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="m_Y29iRxK8P2dY197qvD-164" value="&lt;font color=&quot;#ff0000&quot;&gt;Пароли не совпадают&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1100" y="-245" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m_Y29iRxK8P2dY197qvD-168" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-745" y="-275" width="420" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="m_Y29iRxK8P2dY197qvD-169" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-637.5" y="-250" width="205" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="m_Y29iRxK8P2dY197qvD-170" value="Код подтверждения" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-620" y="-215" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="m_Y29iRxK8P2dY197qvD-171" value="Восстановить пароль" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-605" y="-275" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m_Y29iRxK8P2dY197qvD-172" value="Подтвердить" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-630" y="-95" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="m_Y29iRxK8P2dY197qvD-173" value="Отправить повторно" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-630" y="-175" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="m_Y29iRxK8P2dY197qvD-174" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-745" y="-275" width="420" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="m_Y29iRxK8P2dY197qvD-175" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-637.5" y="-250" width="205" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="m_Y29iRxK8P2dY197qvD-176" value="Новый пароль" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-620" y="-215" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="m_Y29iRxK8P2dY197qvD-177" value="Смена пароля" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-605" y="-275" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m_Y29iRxK8P2dY197qvD-178" value="Повторить пароль" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-620" y="-175" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="m_Y29iRxK8P2dY197qvD-179" value="Показать пароль" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-592.5" y="-145" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="m_Y29iRxK8P2dY197qvD-180" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-620.6199999999999" y="-145" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="m_Y29iRxK8P2dY197qvD-181" value="Сохранить" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-525.62" y="-95" width="85" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="m_Y29iRxK8P2dY197qvD-182" value="Отмена" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-620.6199999999999" y="-95" width="85" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="m_Y29iRxK8P2dY197qvD-183" value="Вы точно хотите отменить смену пароля?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-657.5" y="-220" width="250" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="m_Y29iRxK8P2dY197qvD-184" value="Подтвердить" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-627.5" y="-130" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m_Y29iRxK8P2dY197qvD-185" value="Отмена" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-507.5" y="-130" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
