@@ -117,7 +117,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="KskU96_Id-lFLDm-YQ_3-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Диаграмма последовательности" vertex="1">
+        <mxCell id="KskU96_Id-lFLDm-YQ_3-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Диаграмма коммуникаций" vertex="1">
           <mxGeometry height="80" width="230" x="1620" y="3270" as="geometry" />
         </mxCell>
       </root>
