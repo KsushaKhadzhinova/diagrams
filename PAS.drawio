@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="D9W_WXj9FEsbIpDoUZ0r">
-    <mxGraphModel dx="1220" dy="965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2657" dy="1448" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -15,8 +15,110 @@
         <mxCell id="KQYUuTYXAGj1Xilf_Dxx-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=16;" value="&lt;div&gt;@startuml&lt;/div&gt;&lt;div&gt;&#39; Установка горизонтальной ориентации&lt;/div&gt;&lt;div&gt;left to right direction&lt;/div&gt;&lt;div&gt;&#39; Настройка квадратных (ортогональных) стрелок&lt;/div&gt;&lt;div&gt;skinparam linetype ortho&lt;/div&gt;&lt;div&gt;skinparam actorStyle awesome&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&#39; Актеры&lt;/div&gt;&lt;div&gt;actor &quot;Незарегистрированный\nпользователь&quot; as UnregUser&lt;/div&gt;&lt;div&gt;actor &quot;Зарегистрированный\nпользователь&quot; as RegUser&lt;/div&gt;&lt;div&gt;actor &quot;Администратор&quot; as Admin&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&#39; Наследование актеров с подписью на английском&lt;/div&gt;&lt;div&gt;RegUser -up-|&amp;gt; UnregUser : &amp;lt;&amp;lt;inherit&amp;gt;&amp;gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;rectangle &quot;Система цветочного магазина&quot; {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &#39; Группировка: Поиск и Просмотр [cite: 29, 32]&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; usecase &quot;Просмотреть каталог цветов&quot; as UC_Browse&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; usecase &quot;Установить фильтры поиска&quot; as UC_Sort&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; usecase &quot;Посмотреть детали товара&quot; as UC_Zoom&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; usecase &quot;Проверить наличие на складе&quot; as UC_CheckStock&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &#39; Группировка: Авторизация [cite: 33]&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; usecase &quot;Зарегистрироваться&quot; as UC_Reg&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; usecase &quot;Верифицировать e-mail&quot; as UC_VerifyEmail&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; usecase &quot;Войти в систему&quot; as UC_Login&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; usecase &quot;Ввести данные аккаунта&quot; as UC_AuthData&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &#39; Группировка: Корзина и Заказы [cite: 21, 32, 33]&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; usecase &quot;Добавить цветок в корзину&quot; as UC_AddCart&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; usecase &quot;Пересчитать сумму&quot; as UC_Recalc&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; usecase &quot;Удалить из корзины&quot; as UC_RemCart&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; usecase &quot;Оформить заказ&quot; as UC_PlaceOrder&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; usecase &quot;Выбрать способ оплаты&quot; as UC_Payment&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; usecase &quot;Ввести данные доставки&quot; as UC_DeliveryData&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &#39; Группировка: Администрирование [cite: 33]&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; usecase &quot;Управлять каталогом&quot; as UC_ManageCatalog&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; usecase &quot;Обновить цены&quot; as UC_UpdatePrices&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; usecase &quot;Анализировать продажи&quot; as UC_Analytics&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; usecase &quot;Задать период отчета&quot; as UC_Dates&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&#39; Связи актеров (теперь идут горизонтально)&lt;/div&gt;&lt;div&gt;UnregUser --&amp;gt; UC_Browse&lt;/div&gt;&lt;div&gt;UnregUser --&amp;gt; UC_Reg&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;RegUser --&amp;gt; UC_Login&lt;/div&gt;&lt;div&gt;RegUser --&amp;gt; UC_AddCart&lt;/div&gt;&lt;div&gt;RegUser --&amp;gt; UC_PlaceOrder&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Admin --&amp;gt; UC_ManageCatalog&lt;/div&gt;&lt;div&gt;Admin --&amp;gt; UC_Analytics&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&#39; Отношения INCLUDE (обязательные шаги) [cite: 628]&lt;/div&gt;&lt;div&gt;UC_Browse .&amp;gt; UC_CheckStock : &amp;lt;&amp;lt;include&amp;gt;&amp;gt;&lt;/div&gt;&lt;div&gt;UC_Reg .&amp;gt; UC_VerifyEmail : &amp;lt;&amp;lt;include&amp;gt;&amp;gt;&lt;/div&gt;&lt;div&gt;UC_Login .&amp;gt; UC_AuthData : &amp;lt;&amp;lt;include&amp;gt;&amp;gt;&lt;/div&gt;&lt;div&gt;UC_AddCart .&amp;gt; UC_Recalc : &amp;lt;&amp;lt;include&amp;gt;&amp;gt;&lt;/div&gt;&lt;div&gt;UC_PlaceOrder .&amp;gt; UC_DeliveryData : &amp;lt;&amp;lt;include&amp;gt;&amp;gt;&lt;/div&gt;&lt;div&gt;UC_PlaceOrder .&amp;gt; UC_Payment : &amp;lt;&amp;lt;include&amp;gt;&amp;gt;&lt;/div&gt;&lt;div&gt;UC_Analytics .&amp;gt; UC_Dates : &amp;lt;&amp;lt;include&amp;gt;&amp;gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&#39; Отношения EXTEND (опциональные шаги) [cite: 633]&lt;/div&gt;&lt;div&gt;UC_Sort .&amp;gt; UC_Browse : &amp;lt;&amp;lt;extend&amp;gt;&amp;gt;&lt;/div&gt;&lt;div&gt;UC_Zoom .&amp;gt; UC_Browse : &amp;lt;&amp;lt;extend&amp;gt;&amp;gt;&lt;/div&gt;&lt;div&gt;UC_RemCart .&amp;gt; UC_AddCart : &amp;lt;&amp;lt;extend&amp;gt;&amp;gt;&lt;/div&gt;&lt;div&gt;UC_UpdatePrices .&amp;gt; UC_ManageCatalog : &amp;lt;&amp;lt;extend&amp;gt;&amp;gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;@enduml&lt;/div&gt;" vertex="1">
           <mxGeometry height="560" width="390" x="740" y="1690" as="geometry" />
         </mxCell>
-        <mxCell id="KQYUuTYXAGj1Xilf_Dxx-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Диаграмма коммуникации" vertex="1">
+        <mxCell id="KQYUuTYXAGj1Xilf_Dxx-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Диаграмма последовательности" vertex="1">
           <mxGeometry height="80" width="230" x="200" y="3420" as="geometry" />
+        </mxCell>
+        <mxCell id="KskU96_Id-lFLDm-YQ_3-1" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=center;size=65;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Клиент" vertex="1">
+          <mxGeometry height="808" width="35" y="3507" as="geometry" />
+        </mxCell>
+        <mxCell id="KskU96_Id-lFLDm-YQ_3-2" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Сайт" vertex="1">
+          <mxGeometry height="808" width="150" x="378" y="3507" as="geometry" />
+        </mxCell>
+        <mxCell id="KskU96_Id-lFLDm-YQ_3-3" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="СистемаЗаказов" vertex="1">
+          <mxGeometry height="808" width="150" x="768" y="3507" as="geometry" />
+        </mxCell>
+        <mxCell id="KskU96_Id-lFLDm-YQ_3-4" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Склад" vertex="1">
+          <mxGeometry height="808" width="150" x="1020" y="3507" as="geometry" />
+        </mxCell>
+        <mxCell id="KskU96_Id-lFLDm-YQ_3-5" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="ПлатежныйШлюз" vertex="1">
+          <mxGeometry height="808" width="150" x="1220" y="3507" as="geometry" />
+        </mxCell>
+        <mxCell id="KskU96_Id-lFLDm-YQ_3-6" edge="1" parent="1" source="KskU96_Id-lFLDm-YQ_3-1" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=12;startSize=8;endSize=8;" target="KskU96_Id-lFLDm-YQ_3-2" value="Выбрать букет и нажать &quot;Оформить&quot;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="273" y="3616" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KskU96_Id-lFLDm-YQ_3-7" edge="1" parent="1" source="KskU96_Id-lFLDm-YQ_3-2" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=12;startSize=8;endSize=8;" target="KskU96_Id-lFLDm-YQ_3-3" value="Создать черновик заказа">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="657" y="3670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KskU96_Id-lFLDm-YQ_3-8" edge="1" parent="1" source="KskU96_Id-lFLDm-YQ_3-3" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=12;startSize=8;endSize=8;" target="KskU96_Id-lFLDm-YQ_3-2" value="Подтверждение создания">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="3724" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KskU96_Id-lFLDm-YQ_3-9" edge="1" parent="1" source="KskU96_Id-lFLDm-YQ_3-2" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=12;startSize=8;endSize=8;" target="KskU96_Id-lFLDm-YQ_3-1" value="Запросить данные доставки">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="276" y="3778" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KskU96_Id-lFLDm-YQ_3-10" edge="1" parent="1" source="KskU96_Id-lFLDm-YQ_3-1" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=12;startSize=8;endSize=8;" target="KskU96_Id-lFLDm-YQ_3-2" value="Ввести данные и выбрать оплату">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="273" y="3832" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KskU96_Id-lFLDm-YQ_3-11" edge="1" parent="1" source="KskU96_Id-lFLDm-YQ_3-2" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=12;startSize=8;endSize=8;" target="KskU96_Id-lFLDm-YQ_3-5" value="Инициировать транзакцию">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="883" y="3886" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KskU96_Id-lFLDm-YQ_3-12" edge="1" parent="1" source="KskU96_Id-lFLDm-YQ_3-5" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=12;startSize=8;endSize=8;" target="KskU96_Id-lFLDm-YQ_3-2" value="Статус оплаты (Успешно)">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="886" y="3940" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KskU96_Id-lFLDm-YQ_3-13" edge="1" parent="1" source="KskU96_Id-lFLDm-YQ_3-2" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=12;startSize=8;endSize=8;" target="KskU96_Id-lFLDm-YQ_3-3" value="Подтвердить оплату и зафиксировать заказ">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="657" y="3994" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KskU96_Id-lFLDm-YQ_3-14" edge="1" parent="1" source="KskU96_Id-lFLDm-YQ_3-3" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=12;startSize=8;endSize=8;" target="KskU96_Id-lFLDm-YQ_3-4" value="Зарезервировать цветы">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="978" y="4048" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KskU96_Id-lFLDm-YQ_3-15" edge="1" parent="1" source="KskU96_Id-lFLDm-YQ_3-4" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=12;startSize=8;endSize=8;" target="KskU96_Id-lFLDm-YQ_3-3" value="Подтверждение резерва">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="981" y="4102" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KskU96_Id-lFLDm-YQ_3-16" edge="1" parent="1" source="KskU96_Id-lFLDm-YQ_3-3" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=12;startSize=8;endSize=8;" target="KskU96_Id-lFLDm-YQ_3-2" value="Заказ оформлен">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="4156" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KskU96_Id-lFLDm-YQ_3-17" edge="1" parent="1" source="KskU96_Id-lFLDm-YQ_3-2" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=12;startSize=8;endSize=8;" target="KskU96_Id-lFLDm-YQ_3-1" value="Показать страницу успеха и номер заказа">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="276" y="4210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KskU96_Id-lFLDm-YQ_3-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Диаграмма последовательности" vertex="1">
+          <mxGeometry height="80" width="230" x="1620" y="3270" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
